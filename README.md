@@ -1,5 +1,3 @@
-##  Olá! 
-
 <p align="center">
   <a href="https://github.com/Doglimas/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Douglas%20Ribeiro%20Nascimento%20;Desenvolvedor%20em%20Desenvolvimento%20;&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
